@@ -361,3 +361,5 @@ src/coreclr/System.Private.CoreLib/common
 .dotnet-daily/
 run-stress-*
 test:.cs
+
+# files being ignored using this file
